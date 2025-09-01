@@ -1,1 +1,5 @@
 1-9-25
+
+to get go.mod "go mod init <module-name>"
+
+run "go get go-gin-api" to create go.sum if not available
